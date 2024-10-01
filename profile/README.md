@@ -63,6 +63,8 @@ The following repositories contain independent tools, language grammars, etc.
 | [Macaulay2.github.io]      | (not maintained)                           |
 | [.github]                  | Source for this profile page               |
 
+[Workshop-2025-Madison]: https://github.com/Macaulay2/Workshop-2025-Madison
+[Workshop-2024-Leipzig]: https://github.com/Macaulay2/Workshop-2024-Leipzig
 [Workshop-2024-Utah]: https://github.com/Macaulay2/Workshop-2024-Utah
 [Workshop-2023-Warwick]: https://github.com/Macaulay2/Workshop-2023-Warwick
 [Workshop-2023-Minneapolis]: https://github.com/Macaulay2/Workshop-2023-Minneapolis
