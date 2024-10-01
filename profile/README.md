@@ -4,12 +4,13 @@
 
 | Useful Links         | Description                           |
 |----------------------|---------------------------------------|
-| [Download]           | Get the latest M2 binary releases     |
+| [Downloads]          | Get the latest M2 binary releases     |
 | [Issue] tracker      | Report bugs and request features here |
 | [Packages] directory | Contributed packages for Macaulay2    |
 | [Documentation]      | Online documentation for Macaulay2    |
 | [Macaulay2 Wiki]     | Guides, meetings notes, and projects  |
 
+[Downloads]: https://macaulay2.com/Downloads/
 [Issue]: https://github.com/Macaulay2/M2/issues
 [Packages]: https://github.com/Macaulay2/M2/tree/development/M2/Macaulay2/packages
 [Documentation]: https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/
