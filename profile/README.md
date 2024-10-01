@@ -1,15 +1,18 @@
 [Macaulay2] is an interpreted, dynamically typed programming language intended to support research in [commutative algebra](http://en.wikipedia.org/wiki/Commutative_algebra), [algebraic geometry](http://en.wikipedia.org/wiki/Algebraic_geometry) and related fields. All components of the language are open sourced, including over two hundred contributed packages, and generously funded by the National Science Foundation since 1992.
 
-| Link                                                              | Description                           |
-|-------------------------------------------------------------------|---------------------------------------|
-| [M2](https://github.com/Macaulay2/M2/tree/development) repository | Primary source code for Macaulay2     |
-| [Issue](https://github.com/Macaulay2/M2/issues) tracker           | Report bugs and request features here |
-| [Packages] directory                                              | Contributed packages for Macaulay2    |
-| [Documentation]                                                   | Online documentation for Macaulay2    |
-| [Macaulay2 Wiki](https://github.com/Macaulay2/M2/wiki)            | Guides, meetings notes, and projects  |
+[![M2](https://github-readme-stats.vercel.app/api/pin/?username=Macaulay2&repo=M2)](https://github.com/Macaulay2/M2)
 
+| Useful Links         | Description                           |
+|----------------------|---------------------------------------|
+| [Issue] tracker      | Report bugs and request features here |
+| [Packages] directory | Contributed packages for Macaulay2    |
+| [Documentation]      | Online documentation for Macaulay2    |
+| [Macaulay2 Wiki]     | Guides, meetings notes, and projects  |
+
+[Issue]: https://github.com/Macaulay2/M2/issues
 [Packages]: https://github.com/Macaulay2/M2/tree/development/M2/Macaulay2/packages
 [Documentation]: https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/
+[Macaulay2 Wiki]: https://github.com/Macaulay2/M2/wiki
 
 For much more information, see the [wiki](https://github.com/Macaulay2/M2/wiki).
 
