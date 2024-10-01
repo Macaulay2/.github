@@ -22,6 +22,8 @@ See [this page](https://macaulay2.com/Events/) for upcoming workshops.
 
 | Repository Name              | Workshop Dates           |
 |------------------------------|--------------------------|
+| [Workshop-2025-Madison]      | June 30 to July 4, 2025  |
+| [Workshop-2024-Leipzig]      | Nov. 25-28, 2024         |
 | [Workshop-2024-Utah]         | May  28 to June 5, 2024  |
 | [Workshop-2023-Warwick]      | Mar. 27-31, 2023         |
 | [Workshop-2023-Minneapolis]  | June  5-9, 2023          |
