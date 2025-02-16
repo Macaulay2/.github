@@ -9,21 +9,37 @@
 | [Packages] directory | Contributed packages for Macaulay2    |
 | [Documentation]      | Online documentation for Macaulay2    |
 | [Macaulay2 Wiki]     | Guides, meetings notes, and projects  |
+| [Zulip server]       | Online collaboration and discussion   |
+| [Mailing list]       | Google Group for announcements        |
 
 [Downloads]: https://macaulay2.com/Downloads/
 [Issue]: https://github.com/Macaulay2/M2/issues
 [Packages]: https://github.com/Macaulay2/M2/tree/development/M2/Macaulay2/packages
 [Documentation]: https://macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/
 [Macaulay2 Wiki]: https://github.com/Macaulay2/M2/wiki
+[Mailing list]: https://groups.google.com/group/macaulay2
+[Zulip server]: https://macaulay2.zulipchat.com
+
+### Learning & Development Meetings
+
+| Description                 | Approximate Schedule           |
+|-----------------------------|--------------------------------|
+| [Macaulay2: Under the Hood] | Every 2~3 months, online.      |
+| [Macaulay2 Internals]       | Every 1~2 months, online.      |
+| [Macaulay2 Workshops]       | About 1~2 per year, see below. |
+
+[Macaulay2: Under the Hood]: https://github.com/Macaulay2/M2/wiki/Internals%3A-Meeting-Notes
+[Macaulay2 Internals]: https://github.com/Macaulay2/M2/wiki/Macaulay2%3A-under-the-hood
+[Macaulay2 Workshops]: https://macaulay2.com/Events/
 
 ### Workshop Repositories
 
 The following are collaboration repositories for Macaulay2 workshops.
-See [this page](https://macaulay2.com/Events/) for upcoming workshops.
 
 | Repository Name              | Workshop Dates           |
 |------------------------------|--------------------------|
 | [Workshop-2025-Madison]      | June 30 to July 4, 2025  |
+| [Workshop-2025-Tulane]       | Apr. 14-18, 2025         |
 | [Workshop-2024-Leipzig]      | Nov. 25-28, 2024         |
 | [Workshop-2024-Utah]         | May  28 to June 5, 2024  |
 | [Workshop-2023-Warwick]      | Mar. 27-31, 2023         |
@@ -64,6 +80,7 @@ The following repositories contain independent tools, language grammars, etc.
 | [.github]                  | Source for this profile page               |
 
 [Workshop-2025-Madison]: https://github.com/Macaulay2/Workshop-2025-Madison
+[Workshop-2025-Tulane]: https://github.com/Macaulay2/Workshop-2025-Tulane
 [Workshop-2024-Leipzig]: https://github.com/Macaulay2/Workshop-2024-Leipzig
 [Workshop-2024-Utah]: https://github.com/Macaulay2/Workshop-2024-Utah
 [Workshop-2023-Warwick]: https://github.com/Macaulay2/Workshop-2023-Warwick
