@@ -38,6 +38,7 @@ The following are collaboration repositories for Macaulay2 workshops.
 
 | Repository Name              | Workshop Dates           |
 |------------------------------|--------------------------|
+| [Workshop-2025-2026-Hue]     | Dec. 29 to Jan. 9, 2025  |
 | [Workshop-2025-Madison]      | June 30 to July 4, 2025  |
 | [Workshop-2025-Tulane]       | Apr. 14-18, 2025         |
 | [Workshop-2024-Leipzig]      | Nov. 25-28, 2024         |
