@@ -75,7 +75,7 @@ The following repositories contain independent tools, language grammars, etc.
 | [vscode-Macaulay2]         | Extension for [VSCode]                     |
 | [InteractiveShell]         | Web app for interactive command-line tools |
 | [Macaulay2-web-site]       | Source for the Macaulay2 website           |
-| [Macaulay2-Jupyter-Kernel] | (not maintained)                           |
+| [Macaulay2-Jupyter-Kernel] | Kernel for [Jupyter]                       |
 | [Macaulay2-Projects]       | (not maintained)                           |
 | [Macaulay2.github.io]      | (not maintained)                           |
 | [.github]                  | Source for this profile page               |
@@ -120,3 +120,4 @@ The following repositories contain independent tools, language grammars, etc.
 [Homebrew]: https://brew.sh/
 [linguist]: https://github.com/github-linguist/linguist
 [VSCode]: https://code.visualstudio.com/
+[Jupyter]: https://jupyter.org/
