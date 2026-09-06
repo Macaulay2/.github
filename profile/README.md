@@ -38,8 +38,9 @@ The following are collaboration repositories for Macaulay2 workshops.
 
 | Repository Name              | Workshop Dates           |
 |------------------------------|--------------------------|
+| [Workshop-2027-Auburn]       | Feb. 22-25, 2027         |
 | [Workshop-2026-Warwick]      | June 29 to July 3, 2026  |
-| [Workshop-2026-Atlanta]      | May  13-21 2026          |
+| [Workshop-2026-Atlanta]      | May  13-21 ,2026         |
 | [Workshop-2025-2026-Hue]     | Dec. 29 to Jan. 9, 2025  |
 | [Workshop-2025-Madison]      | June 30 to July 4, 2025  |
 | [Workshop-2025-Tulane]       | Apr. 14-18, 2025         |
@@ -82,6 +83,7 @@ The following repositories contain independent tools, language grammars, etc.
 | [Macaulay2.github.io]      | (not maintained)                           |
 | [.github]                  | Source for this profile page               |
 
+[Workshop-2027-Auburn]: https://github.com/Macaulay2/Workshop-2027-Auburn
 [Workshop-2026-Warwick]: https://github.com/Macaulay2/Workshop-2026-Warwick
 [Workshop-2026-Atlanta]: https://github.com/Macaulay2/Workshop-2026-Atlanta
 [Workshop-2025-2026-Hue]: https://github.com/Macaulay2/Workshop-2025-2026-Hue
